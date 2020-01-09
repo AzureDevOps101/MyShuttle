@@ -13,6 +13,7 @@
                 <div class="login_container">
                     <div class="row login_header">
                         <img src="Content/Images/logologin.png">
+                        <p>My Shuttle login page</p>
                     </div>
                     <div class="row">
                         <form action="login" method="post">
